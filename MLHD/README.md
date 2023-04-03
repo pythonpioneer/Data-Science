@@ -4,7 +4,7 @@ Here I am going to practice some concept of Machine Learning specially Regressio
 <h3>Steps to build this project</h3>
 <ul>
 	<li>Data acquisition</li>
-	<li>EDA <li>
+	<li>EDA</li>
 	<li>Regression model building</li>
 	<li>Model Testing</li>
 	<li>Deployment</li>
